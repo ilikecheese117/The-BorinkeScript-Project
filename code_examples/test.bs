@@ -1,0 +1,6 @@
+definelo algo(x, y) {
+    dimelo(x);
+    dimelo(y);
+};
+
+algo("hola", "saludos");
